@@ -1,1 +1,1 @@
-package common_util
+package commonutil
