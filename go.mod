@@ -1,4 +1,4 @@
-module github.com/lorensf/common-util
+module github.com/lorensf/common_util
 
 go 1.14
 
